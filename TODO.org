@@ -1,0 +1,13 @@
+
+# 17/2/97
+** TODO Authentication setup
+** TODO Define simple model
+*** TODO Valid email + mobile
+
+# 16/2/97
+** DONE install django
+** DONE install DRF
+
+
+
+
